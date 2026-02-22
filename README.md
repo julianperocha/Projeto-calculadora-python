@@ -60,7 +60,7 @@ O programa roda em loop e pergunta ao usuário se deseja fazer outra operação 
 
 
 
-python calculadora.py
+calculadora.ipynb
 
 
 
