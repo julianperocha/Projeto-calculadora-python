@@ -55,7 +55,7 @@ O programa roda em loop e pergunta ao usuário se deseja fazer outra operação 
 
 
 
-1. Salve o código em um arquivo, por exemplo: calculadora.py
+1. Salve o código em um arquivo, por exemplo: calculadora.ipynb
 2. Execute no terminal:
 
 
